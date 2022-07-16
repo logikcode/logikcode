@@ -1,7 +1,7 @@
 # Hi there 👋
 
 #### - 🔭 I am Ola Emmanuel, working as an Software Application Development Associate at DecagonHQ
-#### - 💻I’m full stack Java / JavaScript (React) Developer, interned at Decagon Institute.
+#### - 💻I’m full stack Java / JavaScript (React) Developer, interned at Decagon Institute and a content writer at scholardemy.com .
 #### - 🎓 Graduated from one of Nigeria's recognised tertiary institution, The Polytechnic, Ibadan.
 #### - 💻 I’m continuously learning and strengthening my skills in my stack by building projects.
 #### - 💬 I love building amazing things. Ask me about my availabibility on collaboration on stack related projects, and i will promptly respond.
@@ -15,5 +15,5 @@
 
 
 # Contact Me
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white https://twitter.com/Yhello_G) 
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
