@@ -1,10 +1,5 @@
 Hi there 👋
 
-
-**Yhello-G/Yhello-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I am Ola Emmanuel, working as an Software Application Development Associate at DecagonHQ
 - 💻I’m full stack Java / JavaScript (React) Developer, interned at Decagon Institute.
 - 🎓 Graduated from one of Nigeria's recognised tertiary institution, The Polytechnic, Ibadan.
