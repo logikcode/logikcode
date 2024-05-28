@@ -1,12 +1,11 @@
 # Hi there 👋
 
-#### - 🔭 I am Ola Emmanuel, working as an Associate Software Engineer at Decagon
-#### - 💻I’m full stack Java / JavaScript (React) Developer, and a content writer at scholardemy.com .
+#### - 🔭 I am Ola Emmanuel, a Software Engineer
+#### - 💻I’m full stack Java / JavaScript (Angular) Developer, and a content writer at scholardemy.com .
 #### - 🎓 Graduated from one of Nigeria's recognised tertiary institution, The Polytechnic, Ibadan.
 #### - 💻 I’m continuously learning and strengthening my skills in my stack by building projects.
-#### - 💬 I love building amazing solutions to advance huminity.
+#### - 💬 I love building amazing useful solutions.
 #### - 📫 How to reach me: emmanuel.oladipupo68@gmail.com
-#### - ⚡ Fun fact: I'm very passionate about continuously being a part of Global Technological Driven Goals
 
 
 # Tech Stack
